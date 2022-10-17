@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="11.0.16" class="java.beans.XMLDecoder">
+ <object class="co.edu.uniquindio.model.UniversidadQuindio" id="UniversidadQuindio0">
+  <void property="listaProgramas">
+   <void method="add">
+    <object class="co.edu.uniquindio.model.Programa">
+     <void property="codigo">
+      <string>42</string>
+     </void>
+     <void property="modalidad">
+      <string>Presencial</string>
+     </void>
+     <void property="nombre">
+      <string>Ingenieria de sistemas</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="co.edu.uniquindio.model.Programa">
+     <void property="codigo">
+      <string>43</string>
+     </void>
+     <void property="modalidad">
+      <string>Presencial</string>
+     </void>
+     <void property="nombre">
+      <string>Ingenieria civil</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="co.edu.uniquindio.model.Programa">
+     <void property="codigo">
+      <string>44</string>
+     </void>
+     <void property="modalidad">
+      <string>Distancia</string>
+     </void>
+     <void property="nombre">
+      <string>Ingenieria de sistemas</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="co.edu.uniquindio.model.Programa">
+     <void property="codigo">
+      <string>30</string>
+     </void>
+     <void property="modalidad">
+      <string>Presencial</string>
+     </void>
+     <void property="nombre">
+      <string>Topografia</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="co.edu.uniquindio.model.Programa">
+     <void property="codigo">
+      <string>35</string>
+     </void>
+     <void property="modalidad">
+      <string>Distancia</string>
+     </void>
+     <void property="nombre">
+      <string>Biologia</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="co.edu.uniquindio.model.Programa">
+     <void property="codigo">
+      <string>123</string>
+     </void>
+     <void property="modalidad">
+      <string>Distancia</string>
+     </void>
+     <void property="nombre">
+      <string>Prueba</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="co.edu.uniquindio.model.Programa">
+     <void property="codigo">
+      <string>49</string>
+     </void>
+     <void property="modalidad">
+      <string>Presencial</string>
+     </void>
+     <void property="nombre">
+      <string>Ingenieria de alimento</string>
+     </void>
+    </object>
+   </void>
+  </void>
+ </object>
+</java>
